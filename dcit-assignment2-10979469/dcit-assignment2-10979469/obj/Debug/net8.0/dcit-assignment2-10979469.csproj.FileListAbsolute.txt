@@ -1,0 +1,15 @@
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\bin\Debug\net8.0\dcit-assignment2-10979469.exe
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\bin\Debug\net8.0\dcit-assignment2-10979469.deps.json
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\bin\Debug\net8.0\dcit-assignment2-10979469.runtimeconfig.json
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\bin\Debug\net8.0\dcit-assignment2-10979469.dll
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\bin\Debug\net8.0\dcit-assignment2-10979469.pdb
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.AssemblyInfoInputs.cache
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.AssemblyInfo.cs
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.csproj.CoreCompileInputs.cache
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.dll
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\refint\dcit-assignment2-10979469.dll
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.pdb
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.genruntimeconfig.cache
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\ref\dcit-assignment2-10979469.dll
+C:\Users\KONO\source\repos\dcit-assignment2-10979469\dcit-assignment2-10979469\obj\Debug\net8.0\dcit-assignment2-10979469.sourcelink.json
